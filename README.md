@@ -31,7 +31,3 @@ The NN model has a good acuracy of about 98 % on test dataset without any proble
 
 Layers used: 1 Convolution Layer, and 1 Hidden Layer with relu actiavtions.
 The output layer has softmax activation.
-
-## Conclusion:
-
-It's seen that CNN works better for our MNIST image classification with error of 0.061 (compared to 0.107 error of usual NN)
